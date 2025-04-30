@@ -1,4 +1,4 @@
-# eKart – L’avenir des courses sans file d’attente
+# e-Kart – L’avenir des courses sans file d’attente
 
 ## Bienvenue sur l'alpha de notre projet.
 
