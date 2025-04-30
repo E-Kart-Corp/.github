@@ -1,12 +1,39 @@
-## Hi there 👋
+# eKart – L’avenir des courses sans file d’attente
 
-<!--
+## Bienvenue sur l'alpha de notre projet.
 
-**Here are some ideas to get you started:**
+### **Fini les files d’attente !**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Avec **e-Kart**, vivez une expérience de magasinage révolutionnaire. Scannez automatiquement vos produits en temps réel grâce à notre système de reconnaissance visuelle alimenté par l’intelligence artificielle. Une fois vos courses terminées, quittez le magasin : vous êtes débité automatiquement.
+
+---
+
+## Objectif du projet
+
+**e-Kart** a pour mission de simplifier l’expérience d’achat physique en grande surface :  
+✅ Plus de file d’attente  
+✅ Plus de scan manuel en caisse  
+✅ Un parcours 100% autonome et rapide
+
+---
+
+## Technologies utilisées
+
+- **Computer Vision (CV)** – Reconnaissance d’images en temps réel
+- **Machine Learning / Deep Learning** – Classification des produits
+- **Python** – Backend & traitement IA/Algorithme
+- **Firebase / Firestore** – Gestion des utilisateurs et des paniers
+- **Docker** – Conteneurisation des services
+
+---
+
+## Fonctionnalités principales
+
+- 📷 **Détection automatique des produits**
+- 🛒 **Ajout au panier en temps réel**
+- 🧾 **Calcul automatique du montant total**
+- 🔒 **Authentification client sécurisée**
+- 🚪 **Paiement sans contact dès la sortie**
+
+---
+
