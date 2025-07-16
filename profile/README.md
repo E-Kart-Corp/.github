@@ -1,39 +1,38 @@
-# e-Kart – L’avenir des courses sans file d’attente
+# e-Kart – The Future of Queue-Free Shopping
 
-## Bienvenue sur l'alpha de notre projet.
+## Welcome to the alpha version of our project.
 
-### **Fini les files d’attente !**
+### **Say goodbye to waiting in line!**
 
-Avec **e-Kart**, vivez une expérience de magasinage révolutionnaire. Scannez automatiquement vos produits en temps réel grâce à notre système de reconnaissance visuelle alimenté par l’intelligence artificielle. Une fois vos courses terminées, quittez le magasin : vous êtes débité automatiquement.
-
----
-
-## Objectif du projet
-
-**e-Kart** a pour mission de simplifier l’expérience d’achat physique en grande surface :  
-✅ Plus de file d’attente  
-✅ Plus de scan manuel en caisse  
-✅ Un parcours 100% autonome et rapide
+With **e-Kart**, enjoy a revolutionary shopping experience. Automatically scan your products in real-time with our AI-powered visual recognition system. Once you're done shopping, just leave the store — your payment is processed automatically.
 
 ---
 
-## Technologies utilisées
+## Project Objective
 
-- **Computer Vision (CV)** – Reconnaissance d’images en temps réel
-- **Machine Learning / Deep Learning** – Classification des produits
-- **Python** – Backend & traitement IA/Algorithme
-- **Firebase / Firestore** – Gestion des utilisateurs et des paniers
-- **Docker** – Conteneurisation des services
-
----
-
-## Fonctionnalités principales
-
-- 📷 **Détection automatique des produits**
-- 🛒 **Ajout au panier en temps réel**
-- 🧾 **Calcul automatique du montant total**
-- 🔒 **Authentification client sécurisée**
-- 🚪 **Paiement sans contact dès la sortie**
+**e-Kart** aims to simplify the in-store shopping experience in supermarkets:  
+✅ No more waiting in line  
+✅ No more manual barcode scanning  
+✅ A 100% autonomous and fast checkout journey
 
 ---
 
+## Technologies Used
+
+- **Computer Vision (CV)** – Real-time image recognition  
+- **Machine Learning / Deep Learning** – Product classification  
+- **Python** – Backend & AI/algorithm processing  
+- **Firebase / Firestore** – User and cart management  
+- **Docker** – Service containerization  
+
+---
+
+## Key Features
+
+- 📷 **Automatic product detection**  
+- 🛒 **Real-time cart updates**  
+- 🧾 **Instant total price calculation**  
+- 🔒 **Secure user authentication**  
+- 🚪 **Contactless payment upon exit**
+
+---
